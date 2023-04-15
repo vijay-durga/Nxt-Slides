@@ -1,0 +1,12 @@
+.slides-container {
+  display: flex;
+  height: 80vh;
+}
+
+.slides-list {
+  width: 20%;
+  overflow: auto;
+  color: #000000;
+  background-color: #f8fafc;
+  list-style-type: decimal;
+}

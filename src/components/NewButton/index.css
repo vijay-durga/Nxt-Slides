@@ -1,0 +1,13 @@
+.add-new-button {
+  background-color: #dbeafe;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-style: none;
+  font-family: 'Bree Serif';
+}
+
+.plus-icon {
+  width: 15px;
+  margin-right: 10px;
+}

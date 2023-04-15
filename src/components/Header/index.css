@@ -1,0 +1,20 @@
+.header-container {
+  background-color: #dbeafe;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  font-family: 'Roboto';
+}
+
+.header-logo {
+  height: 40px;
+  width: 50px;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+.header-heading {
+  font-family: 'Bree Serif';
+  padding-left: 10px;
+  font-weight: 500;
+}
